@@ -1,0 +1,37 @@
+{
+    "rulz":[
+     {
+        "Title":"Rulz"
+    
+      },
+      {
+        "Genre":"Drama and comedy"
+      },
+      {
+        "Rating":7.8
+      }
+
+    ],
+    "animal":[
+        {
+            "Title":"Animal"
+        },
+        {
+            "Genre":"Action and Crime"
+        },
+        {
+            "Rating":8
+        }
+    ],
+    "barfi":[
+        {
+            "Title":"Barfi"
+        },
+        {
+            "Genre":"Drama"
+        },
+        {
+            "Rating":9
+        }
+    ]
+}
